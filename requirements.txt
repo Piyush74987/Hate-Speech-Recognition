@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+nltk
+nltk[corpus]
+requests 
+bs4
+pydantic
+scikit-learn
+pandas
+swifter
