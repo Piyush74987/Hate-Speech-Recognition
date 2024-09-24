@@ -18,11 +18,18 @@ Visualized results using confusion matrix and ROC curves to interpret classifica
 Deployed the trained model using a Flask-based web application, allowing users to input text and receive real-time hate speech classification.
 User-friendly interface for quick and easy identification of hateful content.
 Technologies and Tools:
-## Languages: Python (for scripting, model building, and deployment)
-### Libraries:
-NLP: NLTK, TextBlob
-Machine Learning: Scikit-learn
-Data Handling: Pandas, NumPy
-Model Evaluation: Matplotlib, Seaborn
-Web Framework: Flask (for building and deploying the web app)
-Model Deployment: Flask API for real-time prediction of hate speec
+## Languages:
+Python (for scripting, model building, and deployment),
+## Libraries:
+### NLP:
+NLTK, TextBlob,
+### Machine Learning: 
+Scikit-learn
+### Data Handling:
+Pandas, NumPy
+### Model Evaluation:
+Matplotlib, Seaborn
+### Web Framework:
+Flask (for building and deploying the web app)
+### Model Deployment: 
+Flask API for real-time prediction of hate speec
